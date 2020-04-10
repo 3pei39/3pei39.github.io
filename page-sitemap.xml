@@ -8,6 +8,13 @@
     </url>
     
     <url>
+        <loc>https://3pei39.github.io/about/</loc>
+        <lastmod>2020-04-10T06:23:03.679Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>https://3pei39.github.io/link/</loc>
         <lastmod>2020-04-10T05:46:04.278Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -24,13 +31,6 @@
     <url>
         <loc>https://3pei39.github.io/tags/</loc>
         <lastmod>2020-04-10T05:45:22.188Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://3pei39.github.io/about/</loc>
-        <lastmod>2020-04-10T02:43:49.787Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
