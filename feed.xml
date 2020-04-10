@@ -15,27 +15,34 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Fri, 10 Apr 2020 01:06:51 GMT</pubDate>
+    <pubDate>Fri, 10 Apr 2020 06:57:05 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
-      <title>Hello World</title>
-      <link>https://3pei39.github.io/2020/04/10/hello-world/</link>
-      <guid>https://3pei39.github.io/2020/04/10/hello-world/</guid>
-      <pubDate>Fri, 10 Apr 2020 01:06:51 GMT</pubDate>
+      <title>ADD 재구조화 시범운영 평가</title>
+      <link>https://3pei39.github.io/2020/04/01/hello-world/</link>
+      <guid>https://3pei39.github.io/2020/04/01/hello-world/</guid>
+      <pubDate>Tue, 31 Mar 2020 15:00:00 GMT</pubDate>
       <description>
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external nofollow noopener noreferrer&quot;&gt;Hexo&lt;/a&gt;! This is your very first post.
+          &lt;ul&gt;
+&lt;li&gt;&lt;p&gt;과제명 : ADD 재구조화 시범운영 평가&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;수행기간 : 2020.04~2020.06&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;발주처 : 국방과학연구소&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;과제목적 : ADD 재구조화 시
         
       
       </description>
       
       
-      <content:encoded><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external nofollow noopener noreferrer">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external nofollow noopener noreferrer">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external nofollow noopener noreferrer">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external nofollow noopener noreferrer">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="bash">$ hexo new &quot;My New Post&quot;</code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external nofollow noopener noreferrer">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external nofollow noopener noreferrer">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external nofollow noopener noreferrer">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="external nofollow noopener noreferrer">Deployment</a></p>]]></content:encoded>
+      <content:encoded><![CDATA[<ul><li><p>과제명 : ADD 재구조화 시범운영 평가</p></li><li><p>수행기간 : 2020.04~2020.06</p></li><li><p>발주처 : 국방과학연구소</p></li><li><p>과제목적 : ADD 재구조화 시범운영 평가편람 수립을 통해 공정하고 효율적인 평가체계를 구축하고, 작성된 평가편람을 바탕으로 ADD 재구조화 및 부설기구 운영의 타당성을 검토함.</p></li><li><p>주요 내용 및 수행범위 : ADD 재구조화 시범운영 평가편람을 작성하고, 전문평가단을 구성하여 ADD 재구조화 정책 및 4개 부설기구(지상기술연구원, 해양기술연구원, 항공기술연구원, 민군협력진흥원) 운영 및 신설 타당성에 대한 평가를 실시함.</p></li><li><p>Keyword : 기관평가, 경영평가</p></li></ul>]]></content:encoded>
       
-      <comments>https://3pei39.github.io/2020/04/10/hello-world/#disqus_thread</comments>
+      <comments>https://3pei39.github.io/2020/04/01/hello-world/#disqus_thread</comments>
     </item>
     
   </channel>
