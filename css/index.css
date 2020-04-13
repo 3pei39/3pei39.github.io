@@ -2539,7 +2539,7 @@ figure.gallery-group .gallery-group-name:after {
   transition: all 0.5s;
 }
 #nav.full_page {
-  height: 400px;
+  height: 100vh;
 }
 #nav.full_page #site-info {
   position: absolute;
@@ -2813,14 +2813,15 @@ figure.gallery-group .gallery-group-name:after {
   content: '';
 }
 #page-header .menus_items .menus_item .menus_item_child li {
-  padding: 1px 10px;
   list-style: none;
-  text-align: center;
 }
 #page-header .menus_items .menus_item .menus_item_child li:hover {
   background: #49b1f5;
 }
 #page-header .menus_items .menus_item .menus_item_child li a {
+  display: inline-block;
+  padding: 0.3rem 0.7rem;
+  width: 100%;
   color: #4c4948;
   text-shadow: none;
 }

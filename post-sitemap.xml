@@ -32,14 +32,6 @@
     </url>
 
     <url>
-        <loc>https://3pei39.github.io/2014/05/01/P1406/</loc>
-        <lastmod>2020-04-13T08:16:31.107Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://3pei39.github.io/2014/05/01/P1405/</loc>
         <lastmod>2020-04-13T08:16:31.107Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -64,6 +56,14 @@
     </url>
 
     <url>
+        <loc>https://3pei39.github.io/2014/05/01/P1406/</loc>
+        <lastmod>2020-04-13T08:16:31.107Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://3pei39.github.io/2014/06/01/P1408/</loc>
         <lastmod>2020-04-13T08:16:31.107Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -72,7 +72,7 @@
     </url>
 
     <url>
-        <loc>https://3pei39.github.io/2013/12/01/P1304/</loc>
+        <loc>https://3pei39.github.io/2013/11/01/P1302/</loc>
         <lastmod>2020-04-13T08:16:31.106Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -80,7 +80,7 @@
     </url>
 
     <url>
-        <loc>https://3pei39.github.io/2013/11/01/P1302/</loc>
+        <loc>https://3pei39.github.io/2013/12/01/P1304/</loc>
         <lastmod>2020-04-13T08:16:31.106Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -96,7 +96,7 @@
     </url>
 
     <url>
-        <loc>https://3pei39.github.io/2014/01/01/P1401/</loc>
+        <loc>https://3pei39.github.io/2014/02/01/P1403/</loc>
         <lastmod>2020-04-13T08:16:31.106Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -104,7 +104,7 @@
     </url>
 
     <url>
-        <loc>https://3pei39.github.io/2014/02/01/P1403/</loc>
+        <loc>https://3pei39.github.io/2014/01/01/P1401/</loc>
         <lastmod>2020-04-13T08:16:31.106Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
