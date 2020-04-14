@@ -48,8 +48,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 서울시 서초구 방배천로 155(방배동 821-8)
-  - line: 유청빌딩 3층 공공정책성과평가연구원
+  - line: 서울시 서초구
+  - line: 방배천로 155 3층
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
