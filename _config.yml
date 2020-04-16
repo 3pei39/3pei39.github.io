@@ -65,9 +65,3 @@ defaults:
       type: "posts"
     values:
       permalink: ""
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: page
-      permalink: ""
