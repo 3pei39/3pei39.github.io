@@ -69,4 +69,5 @@ defaults:
       path: "_pages"
       type: pages
     values:
+      layout: page
       permalink: ""
